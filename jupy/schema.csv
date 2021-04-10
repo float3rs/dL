@@ -1,0 +1,11 @@
+COLUMN,ATTRIBUTE
+YEAR,event Date: Year XXXX
+MONTH,event Date: Month abbr
+DAY,event Date: Day
+HOUR,event Time (GMT): Hour 24h
+MINUTE,event Time (GMT): Minute
+SECOND,event Time (GMT): Second
+LATITUDE,event Latitude (N)
+LONGITUDE,event Longitude (E)
+DEPTH,event Depth (km)
+MAGNITUDE,event Magnitude Mr
